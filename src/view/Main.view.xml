@@ -1,0 +1,11 @@
+<mvc:View
+	controllerName="test.frozenjsono.controller.Main"
+	displayBlock="true"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc">
+
+	<List items="{app>/staticItems}" headerText="List bound to frozen array">
+		<StandardListItem title="Data: {app>staticProp}"/>
+	</List>
+
+</mvc:View>

@@ -1,0 +1,15 @@
+{
+  "generator-ui5-ts-app": {
+    "application": "frozenjsono",
+    "namespace": "test",
+    "framework": "OpenUI5",
+    "frameworkVersion": "1.105.0",
+    "author": "Dimitar Fenerski",
+    "initrepo": true,
+    "tstypes": "@openui5/ts-types-esm",
+    "tstypesVersion": "1.105.0",
+    "appId": "test.frozenjsono",
+    "appURI": "test/frozenjsono",
+    "setupCompleted": true
+  }
+}
